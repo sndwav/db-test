@@ -1,4 +1,10 @@
 {
+  "geographicals": [
+    {"id": 1, "name": "GEO_NEGEV"},
+    {"id": 2, "name": "GEO_CENTER"},
+    {"id": 3, "name": "GEO_NORTH"}
+    ],
+  
   "municipalities": [
     {
       "id": 11,
@@ -15,7 +21,7 @@
       "id": 12,
       "name": "Rehovot Municipality",
       "geographical": {
-        "id": 3,
+        "id": 1,
         "name": "GEO_NEGEV"
       },
       "population": 250000,
@@ -37,7 +43,7 @@
       "id": 14,
       "name": "Be&#39;er Sheva Municipality",
       "geographical": {
-        "id": 3,
+        "id": 1,
         "name": "GEO_NEGEV"
       },
       "population": 120000,
