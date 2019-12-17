@@ -5,7 +5,7 @@
       "name": "Tel Aviv Municipality",
       "geographical": {
         "id": 2,
-        "name": "Center"
+        "name": "GEO_CENTER"
       },
       "population": 800000,
       "socioeconomical": 8,
@@ -16,7 +16,7 @@
       "name": "Rehovot Municipality",
       "geographical": {
         "id": 3,
-        "name": "Negev"
+        "name": "GEO_NEGEV"
       },
       "population": 250000,
       "socioeconomical": 6,
@@ -24,10 +24,10 @@
     },
     {
       "id": 13,
-      "name": "Netivot Municipality",
+      "name": "Haifa Municipality",
       "geographical": {
         "id": 3,
-        "name": "Negev"
+        "name": "GEO_NORTH"
       },
       "population": 90000,
       "socioeconomical": 5,
@@ -38,7 +38,7 @@
       "name": "Be&#39;er Sheva Municipality",
       "geographical": {
         "id": 3,
-        "name": "Negev"
+        "name": "GEO_NEGEV"
       },
       "population": 120000,
       "socioeconomical": 5,
