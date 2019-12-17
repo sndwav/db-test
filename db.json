@@ -13,7 +13,7 @@
     },
     {
       "id": 12,
-      "name": "Be'er Sheva Municipality",
+      "name": "Rehovot Municipality",
       "geographical": {
         "id": 3,
         "name": "Negev"
@@ -30,6 +30,17 @@
         "name": "Negev"
       },
       "population": 90000,
+      "socioeconomical": 5,
+      "logo": "images/logo.png"
+    },
+    {
+      "id": 14,
+      "name": "Be&#39;er Sheva Municipality",
+      "geographical": {
+        "id": 3,
+        "name": "Negev"
+      },
+      "population": 120000,
       "socioeconomical": 5,
       "logo": "images/logo.png"
     }
