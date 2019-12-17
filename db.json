@@ -1,1 +1,37 @@
-
+{
+  "municipalities": [
+    {
+      "id": 11,
+      "name": "Tel Aviv Municipality",
+      "geographical": {
+        "id": 2,
+        "name": "Center"
+      },
+      "population": 800000,
+      "socioeconomical": 8,
+      "logo": "images/logo.png"
+    },
+    {
+      "id": 12,
+      "name": "Be'er Sheva Municipality",
+      "geographical": {
+        "id": 3,
+        "name": "Negev"
+      },
+      "population": 250000,
+      "socioeconomical": 6,
+      "logo": "images/logo.png"
+    },
+    {
+      "id": 13,
+      "name": "Netivot Municipality",
+      "geographical": {
+        "id": 3,
+        "name": "Negev"
+      },
+      "population": 90000,
+      "socioeconomical": 5,
+      "logo": "images/logo.png"
+    }
+  ]
+}
