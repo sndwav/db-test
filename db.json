@@ -8,7 +8,7 @@
   "municipalities": [
     {
       "id": 11,
-      "name": "Tel Aviv Municipality",
+      "name": "עיריית תל-אביב",
       "geographical": {
         "id": 2,
         "name": "GEO_CENTER"
@@ -19,7 +19,7 @@
     },
     {
       "id": 12,
-      "name": "Rehovot Municipality",
+      "name": "עיריית רחובות",
       "geographical": {
         "id": 1,
         "name": "GEO_NEGEV"
@@ -30,7 +30,7 @@
     },
     {
       "id": 13,
-      "name": "Haifa Municipality",
+      "name": "עיריית חיפה",
       "geographical": {
         "id": 3,
         "name": "GEO_NORTH"
@@ -41,7 +41,7 @@
     },
     {
       "id": 14,
-      "name": "Be&#39;er Sheva Municipality",
+      "name": "עיריית באר שבע",
       "geographical": {
         "id": 1,
         "name": "GEO_NEGEV"
