@@ -9,7 +9,7 @@
     {"id": 1, "name": "MUNI.sub.active"},
     {"id": 2, "name": "MUNI.sub.inactive"},
     {"id": 3, "name": "MUNI.sub.frozen"},
-    {"id": 4, "name": "MUNI.sub.expired"},
+    {"id": 4, "name": "MUNI.sub.expired"}
     ],
   
   "municipalities": [
@@ -18,7 +18,7 @@
       "status": {
         "id": 1,
         "name": "MUNI.sub.active"
-      }
+      },
       "name": "עיריית תל-אביב",
       "geographical": {
         "id": 2,
@@ -34,7 +34,7 @@
     "status": {
         "id": 2,
         "name": "MUNI.sub.inactive"
-      }
+      },
       "geographical": {
         "id": 1,
         "name": "GEO_NEGEV"
@@ -48,7 +48,7 @@
     "status": {
         "id": 1,
         "name": "MUNI.sub.active"
-      }
+      },
       "name": "עיריית חיפה",
       "geographical": {
         "id": 3,
@@ -63,7 +63,7 @@
     "status": {
         "id": 3,
         "name": "MUNI.sub.frozen"
-      }
+      },
       "name": "עיריית באר שבע",
       "geographical": {
         "id": 1,
