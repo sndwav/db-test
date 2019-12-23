@@ -15,7 +15,7 @@
       },
       "population": 800000,
       "socioeconomical": 8,
-      "logo": "images/logo.png"
+      "logo": "https://www.tel-aviv.gov.il/_layouts/15/TlvSP2013PublicSite/images/logo.png"
     },
     {
       "id": 12,
@@ -48,7 +48,7 @@
       },
       "population": 120000,
       "socioeconomical": 5,
-      "logo": "images/logo.png"
+      "logo": "https://www.beer-sheva.muni.il/SiteCollectionImages/logo.png"
     }
   ]
 }
