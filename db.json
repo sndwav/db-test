@@ -55,7 +55,7 @@
       },
       "population": 250000,
       "socioeconomical": 6,
-      "logo": "images/logo.png"
+      "logo": ""
     },
     {
       "id": 13,
@@ -74,7 +74,7 @@
       },
       "population": 90000,
       "socioeconomical": 5,
-      "logo": "images/logo.png"
+      "logo": ""
     },
     {
       "id": 14,
