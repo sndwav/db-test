@@ -5,6 +5,12 @@
     {"id": 3, "name": "GEO_NORTH"}
     ],
   
+  "muni_types": [
+    {"id": 1, "name": "MUNI.types.city"},
+    {"id": 2, "name": "MUNI.types.village"},
+    {"id": 3, "name": "MUNI.types.town"}
+    ],
+  
   "statuses": [
     {"id": 1, "name": "MUNI.sub.active"},
     {"id": 2, "name": "MUNI.sub.inactive"},
@@ -20,6 +26,10 @@
         "name": "MUNI.sub.active"
       },
       "name": "עיריית תל-אביב",
+      "type": {
+        "id": 1,
+        "name": "MUNI.types.city"
+      },
       "geographical": {
         "id": 2,
         "name": "GEO_CENTER"
@@ -31,6 +41,10 @@
     {
       "id": 12,
       "name": "עיריית רחובות",
+      "type": {
+        "id": 2,
+        "name": "MUNI.types.village"
+      },
     "status": {
         "id": 2,
         "name": "MUNI.sub.inactive"
@@ -50,6 +64,10 @@
         "name": "MUNI.sub.active"
       },
       "name": "עיריית חיפה",
+      "type": {
+        "id": 3,
+        "name": "MUNI.types.town"
+      },
       "geographical": {
         "id": 3,
         "name": "GEO_NORTH"
@@ -65,6 +83,10 @@
         "name": "MUNI.sub.frozen"
       },
       "name": "עיריית באר שבע",
+      "type": {
+        "id": 1,
+        "name": "MUNI.types.city"
+      },
       "geographical": {
         "id": 1,
         "name": "GEO_NEGEV"
