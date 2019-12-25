@@ -1,21 +1,21 @@
 {
   "geographicals": [
-    {"id": 1, "name": "GEO_NEGEV"},
-    {"id": 2, "name": "GEO_CENTER"},
-    {"id": 3, "name": "GEO_NORTH"}
+    {"id": 1, "name": "דרום"},
+    {"id": 2, "name": "מרכז"},
+    {"id": 3, "name": "צפון"}
     ],
   
   "muni_types": [
-    {"id": 1, "name": "MUNI.types.city"},
-    {"id": 2, "name": "MUNI.types.village"},
-    {"id": 3, "name": "MUNI.types.town"}
+    {"id": 1, "name": "עיר"},
+    {"id": 2, "name": "כפר"},
+    {"id": 3, "name": "עיירה"}
     ],
   
   "statuses": [
-    {"id": 1, "name": "MUNI.sub.active"},
-    {"id": 2, "name": "MUNI.sub.inactive"},
-    {"id": 3, "name": "MUNI.sub.frozen"},
-    {"id": 4, "name": "MUNI.sub.expired"}
+    {"id": 1, "name": "פעיל"},
+    {"id": 2, "name": "לא פעיל"},
+    {"id": 3, "name": "מוקפא"},
+    {"id": 4, "name": "פג תוקף"}
     ],
   
   "municipalities": [
@@ -23,16 +23,17 @@
       "id": 11,
       "status": {
         "id": 1,
-        "name": "MUNI.sub.active"
+        "name": "פעיל",
+        "expiration_date": "12/2/2020"
       },
       "name": "עיריית תל-אביב",
       "type": {
         "id": 1,
-        "name": "MUNI.types.city"
+        "name": "עיר"
       },
       "geographical": {
         "id": 2,
-        "name": "GEO_CENTER"
+        "name": "מרכז"
       },
       "population": 800000,
       "socioeconomical": 8,
@@ -43,15 +44,16 @@
       "name": "עיריית רחובות",
       "type": {
         "id": 2,
-        "name": "MUNI.types.village"
+        "name": "כפר"
       },
     "status": {
         "id": 2,
-        "name": "MUNI.sub.inactive"
+        "name": "לא פעיל",
+        "expiration_date": "12/2/2020"
       },
       "geographical": {
         "id": 1,
-        "name": "GEO_NEGEV"
+        "name": "נגב"
       },
       "population": 250000,
       "socioeconomical": 6,
@@ -61,16 +63,17 @@
       "id": 13,
     "status": {
         "id": 1,
-        "name": "MUNI.sub.active"
+        "name": "פעיל",
+        "expiration_date": "12/2/2020"
       },
       "name": "עיריית חיפה",
       "type": {
         "id": 3,
-        "name": "MUNI.types.town"
+        "name": "עיירה"
       },
       "geographical": {
         "id": 3,
-        "name": "GEO_NORTH"
+        "name": "צפון"
       },
       "population": 90000,
       "socioeconomical": 5,
@@ -80,16 +83,17 @@
       "id": 14,
     "status": {
         "id": 3,
-        "name": "MUNI.sub.frozen"
+        "name": "מוקפא",
+        "expiration_date": "12/2/2020"
       },
       "name": "עיריית באר שבע",
       "type": {
         "id": 1,
-        "name": "MUNI.types.city"
+        "name": "עיר"
       },
       "geographical": {
         "id": 1,
-        "name": "GEO_NEGEV"
+        "name": "נגב"
       },
       "population": 120000,
       "socioeconomical": 5,
