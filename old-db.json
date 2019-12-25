@@ -1,0 +1,103 @@
+{
+  "geographicals": [
+    {"id": 1, "name": "דרום"},
+    {"id": 2, "name": "מרכז"},
+    {"id": 3, "name": "צפון"}
+    ],
+  
+  "muni_types": [
+    {"id": 1, "name": "עיר"},
+    {"id": 2, "name": "כפר"},
+    {"id": 3, "name": "עיירה"}
+    ],
+  
+  "statuses": [
+    {"id": 1, "name": "פעיל"},
+    {"id": 2, "name": "לא פעיל"},
+    {"id": 3, "name": "מוקפא"},
+    {"id": 4, "name": "פג תוקף"}
+    ],
+  
+  "municipalities": [
+    {
+      "id": 11,
+      "status": {
+        "id": 1,
+        "name": "פעיל",
+        "expiration_date": "12/2/2020"
+      },
+      "name": "עיריית תל-אביב",
+      "type": {
+        "id": 1,
+        "name": "עיר"
+      },
+      "geographical": {
+        "id": 2,
+        "name": "מרכז"
+      },
+      "population": 800000,
+      "socioeconomical": 8,
+      "logo": "https://www.tel-aviv.gov.il/_layouts/15/TlvSP2013PublicSite/images/logo.png"
+    },
+    {
+      "id": 12,
+      "name": "עיריית רחובות",
+      "type": {
+        "id": 2,
+        "name": "כפר"
+      },
+    "status": {
+        "id": 2,
+        "name": "לא פעיל",
+        "expiration_date": "12/2/2020"
+      },
+      "geographical": {
+        "id": 1,
+        "name": "נגב"
+      },
+      "population": 250000,
+      "socioeconomical": 6,
+      "logo": ""
+    },
+    {
+      "id": 13,
+    "status": {
+        "id": 1,
+        "name": "פעיל",
+        "expiration_date": "12/2/2020"
+      },
+      "name": "עיריית חיפה",
+      "type": {
+        "id": 3,
+        "name": "עיירה"
+      },
+      "geographical": {
+        "id": 3,
+        "name": "צפון"
+      },
+      "population": 90000,
+      "socioeconomical": 5,
+      "logo": ""
+    },
+    {
+      "id": 14,
+    "status": {
+        "id": 3,
+        "name": "מוקפא",
+        "expiration_date": "12/2/2020"
+      },
+      "name": "עיריית באר שבע",
+      "type": {
+        "id": 1,
+        "name": "עיר"
+      },
+      "geographical": {
+        "id": 1,
+        "name": "נגב"
+      },
+      "population": 120000,
+      "socioeconomical": 5,
+      "logo": "https://www.beer-sheva.muni.il/SiteCollectionImages/logo.png"
+    }
+  ]
+}
