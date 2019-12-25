@@ -20,84 +20,58 @@
   
   "municipalities": [
     {
-      "id": 11,
-      "status": {
-        "id": 1,
-        "name": "פעיל",
-        "expiration_date": "12/2/2020"
-      },
-      "name": "עיריית תל-אביב",
-      "type": {
-        "id": 1,
-        "name": "עיר"
-      },
-      "geographical": {
-        "id": 2,
-        "name": "מרכז"
-      },
-      "population": 800000,
-      "socioeconomical": 8,
-      "logo": "https://www.tel-aviv.gov.il/_layouts/15/TlvSP2013PublicSite/images/logo.png"
-    },
-    {
-      "id": 12,
-      "name": "עיריית רחובות",
-      "type": {
-        "id": 2,
-        "name": "כפר"
-      },
-    "status": {
-        "id": 2,
-        "name": "לא פעיל",
-        "expiration_date": "12/2/2020"
-      },
-      "geographical": {
-        "id": 1,
-        "name": "נגב"
-      },
-      "population": 250000,
-      "socioeconomical": 6,
-      "logo": ""
-    },
-    {
-      "id": 13,
-    "status": {
-        "id": 1,
-        "name": "פעיל",
-        "expiration_date": "12/2/2020"
-      },
-      "name": "עיריית חיפה",
-      "type": {
-        "id": 3,
-        "name": "עיירה"
-      },
-      "geographical": {
-        "id": 3,
-        "name": "צפון"
-      },
-      "population": 90000,
-      "socioeconomical": 5,
-      "logo": ""
-    },
-    {
-      "id": 14,
-    "status": {
-        "id": 3,
-        "name": "מוקפא",
-        "expiration_date": "12/2/2020"
-      },
-      "name": "עיריית באר שבע",
-      "type": {
-        "id": 1,
-        "name": "עיר"
-      },
-      "geographical": {
-        "id": 1,
-        "name": "נגב"
-      },
-      "population": 120000,
-      "socioeconomical": 5,
-      "logo": "https://www.beer-sheva.muni.il/SiteCollectionImages/logo.png"
-    }
+    "muniId": 1,
+    "fullname": "עריית תל-אביב",
+    "createdate": "2019-12-24T09:43:47.000Z",
+    "createuser": null,
+    "status": 1,
+    "phone": null,
+    "phone1": null,
+    "phone2": null,
+    "fulladdress": "כיכר רבין 4 ת\"א",
+    "fax": null,
+    "email": null,
+    "website": null,
+    "remarks": null,
+    "modifydate": null,
+    "modifyuser": null,
+    "resources": [
+        {
+            "id": 1,
+            "name": "פרויקטים",
+            "value": null
+        },
+        {
+            "id": 2,
+            "name": "קרנות",
+            "value": null
+        },
+        {
+            "id": 3,
+            "name": "עסקים",
+            "value": null
+        },
+        {
+            "id": 4,
+            "name": "קולות קוראים",
+            "value": null
+        },
+        {
+            "id": 5,
+            "name": "קולות קוראים מנותחים",
+            "value": null
+        },
+        {
+            "id": 6,
+            "name": "משתמשים",
+            "value": 10
+        },
+        {
+            "id": 7,
+            "name": "תחנות קצה",
+            "value": 10
+        }
+    ]
+}
   ]
 }
