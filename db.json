@@ -34,7 +34,11 @@
     "website": null,
     "remarks": null,
     "modifydate": "2019-12-24T09:43:47.000Z",
-    "modifyuser": null,
+    "modifyuser": {
+"username": "efi1337",
+"fullname": "אפרת אבידן",
+"avatar": null
+},
     "expirationdate": "2020-12-24T09:43:47.000Z",
     "resources": [
         {
@@ -70,7 +74,7 @@
         {
             "id": 7,
             "name": "תחנות קצה",
-            "value": 11
+            "value": 10
         }
     ]
 }
