@@ -71,6 +71,59 @@
             "value": 10
         }
     ]
+},
+    {
+    "muniId": 2,
+    "fullname": "עריית באר שבע",
+    "createdate": "2019-12-24T09:43:47.000Z",
+    "createuser": {
+"username": "efi1337",
+"fullname": "אפרת אבידן",
+"avatar": null
+},
+    "status": 1,
+    "phone": "08-1234567",
+    "phone1": null,
+    "phone2": null,
+    "fulladdress": "כיכר רבין 4 ת\"א",
+    "fax": null,
+    "email": null,
+    "website": null,
+    "remarks": null,
+    "modifydate": "2019-12-24T09:43:47.000Z",
+    "modifyuser": {
+"username": "efi1337",
+"fullname": "אפרת אבידן",
+"avatar": null
+},
+    "expirationdate": "2020-12-24T09:43:47.000Z",
+    "resources": [
+        {
+            "id": 1,
+            "name": "פרויקטים",
+            "value": null
+        },
+        {
+            "id": 2,
+            "name": "קרנות",
+            "value": null
+        },
+        {
+            "id": 3,
+            "name": "עסקים",
+            "value": null
+        },        
+        {
+            "id": 6,
+            "name": "משתמשים",
+            "value": 10
+        },
+        {
+            "id": 7,
+            "name": "תחנות קצה",
+            "value": 10
+        }
+    ]
 }
   ]
 }
