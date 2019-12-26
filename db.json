@@ -1,4 +1,5 @@
 {
+"tables-db": {
   "geographicals": [
     {"id": 1, "name": "דרום"},
     {"id": 2, "name": "מרכז"},
@@ -16,7 +17,8 @@
     {"id": 2, "name": "לא פעיל"},
     {"id": 3, "name": "מוקפא"},
     {"id": 4, "name": "פג תוקף"}
-    ],
+    ]
+},
   
   "municipalities": [
     {
