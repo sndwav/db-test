@@ -23,7 +23,11 @@
     "muniId": 1,
     "fullname": "עריית תל-אביב",
     "createdate": "2019-12-24T09:43:47.000Z",
-    "createuser": null,
+    "createuser": {
+"username": "efi1337",
+"fullname": "אפרת אבידן",
+"avatar": null
+},
     "status": 1,
     "phone": "08-1234567",
     "phone1": null,
@@ -60,12 +64,7 @@
             "id": 4,
             "name": "קולות קוראים",
             "value": null
-        },
-        {
-            "id": 5,
-            "name": "קולות קוראים מנותחים",
-            "value": null
-        },
+        },        
         {
             "id": 6,
             "name": "משתמשים",
