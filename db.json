@@ -163,9 +163,14 @@
             "name": "פרויקטים",
             "value": null
         },
+      {
+            "id": 5,
+            "name": "קולות קוראים מנותחים",
+            "value": null
+        },    
         {
-            "id": 2,
-            "name": "קרנות",
+            "id": 4,
+            "name": "קולות קוראים",
             "value": null
         },
         {
@@ -189,7 +194,7 @@
 "fullname": "שרה בוטבול",
 "avatar": null
 },
-    "status": 4,
+    "status": 2,
     "phone": "08-1234567",
     "phone1": null,
     "phone2": null,
